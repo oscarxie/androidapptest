@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: appium.demo.androidapptest.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.647 sec
